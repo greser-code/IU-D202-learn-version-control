@@ -34,5 +34,11 @@
     "scientificName": "Saiga tatarica",
     "habitat": "Southwest Russia, Kazakhstan, and Mongolia; lives in treeless steppe country",
     "description": "A medium-sized hoofed mammal of the family Bovidae, it has been considered critically endangered since 2002."
+  },
+  {
+    "commonName": "Aye-aye",
+    "scientificName": "Daubentonia madagascariensis",
+    "habitat": "Eastern Madagascar rainforests",
+    "description": "Known for its unique hand structure that has a very long third digit"
   }
 ]
