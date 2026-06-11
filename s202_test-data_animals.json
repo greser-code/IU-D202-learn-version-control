@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Saiga Antelope",
+    "scientificName": "Saiga tatarica",
+    "habitat": "Southwest Russia, Kazakhstan, and Mongolia; lives in treeless steppe country",
+    "description": "A medium-sized hoofed mammal of the family Bovidae, it has been considered critically endangered since 2002."
   }
 ]
